@@ -1,0 +1,17 @@
+% 
+% 1. Title: Kurdish-INF-2016 Dataset
+% 2. Donor: Arazo M.Mustafa   Date: April, 2016
+% 3. Dataset Name: KDC-4007 
+% 
+
+
+
+Kurdish-INF-2016 corpus contains about 4007 articles talking about the eight following topics "categories":
+Style, Religion, Economy, Health, Education, Art, socialite and sport 
+
+
+I have prepared this corpus in order to achieve experiments on text classification for Kurdish Sorani language.
+It has been extracted from web site of articles. 
+
+
+Detail of the dataset in paper of article “A Robust Categorization System for Kurdish Sorani Text Documents” in Information Technology Journal. Inform. Technol. J., 2017
